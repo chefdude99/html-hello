@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+}
+
+.title{
+    color: white;
+    font-family:Georgia;
+    text-align: center;
+}
+.post{
+    background-color: white;
+    width: 50%;
+    margin: auto;
+}
+.post-header{
+    display: flex;
+    font-family: Arial;
+    justify-content: space-between;
+    align-items: center;
+}
+img{
+    width: 100%;
+}
+p{
+    font-family: Courier;
+    font-size: medium;
+    padding: 15px;
+}
